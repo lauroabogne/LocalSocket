@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalSocket</string>
+    <string name="title_activity_server">Server</string>
+    <string name="title_activity_client">Client</string>
+</resources>
